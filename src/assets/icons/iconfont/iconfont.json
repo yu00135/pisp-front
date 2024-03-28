@@ -1,0 +1,93 @@
+{
+  "id": "3320352",
+  "name": "pisp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21721566",
+      "name": "文件类型-缩略图-幻灯片",
+      "font_class": "ppt",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "21721567",
+      "name": "文件类型-缩略图-记事本",
+      "font_class": "txt",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "21721568",
+      "name": "文件类型-缩略图-工作表",
+      "font_class": "excel",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "21721569",
+      "name": "文件类型-缩略图-视频文件",
+      "font_class": "video",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "21721570",
+      "name": "文件类型-缩略图-图片文件",
+      "font_class": "picture",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "21721571",
+      "name": "文件类型-缩略图-未知文件",
+      "font_class": "file",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "21721572",
+      "name": "文件类型-缩略图-文件夹",
+      "font_class": "folder",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "21721573",
+      "name": "文件类型-缩略图-压缩文件",
+      "font_class": "zip",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "21721574",
+      "name": "文件类型-缩略图-Word",
+      "font_class": "word",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "21721575",
+      "name": "文件类型-缩略图-PDF文档",
+      "font_class": "pdf",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "21721576",
+      "name": "文件类型-缩略图-声音文件",
+      "font_class": "wav",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "21721577",
+      "name": "文件类型-缩略图-链接",
+      "font_class": "torrent",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    }
+  ]
+}
